@@ -56,7 +56,9 @@ VITE_GOOGLE_MAPS_API_KEY=your_api_key_here
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/25cfb198-9e58-4731-857b-eb340a2f131c" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/3daf4688-f811-489e-901e-317d07380611" />
+
 
 ## 📌 Future Improvements
 
